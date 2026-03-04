@@ -126,7 +126,9 @@ The dashboard allows users to explore the data using interactive filters:
 Users can dynamically compare health outcomes across regions and time periods.
 
 ---
-
+Dashboard Preview
+![Summary]([url-to-image](https://github.com/anushkashajith/Global-Health-Environment/blob/Images/summary.png))
+---
 # Key Insights (Example)
 
 Some key observations from the dashboard include:
