@@ -127,7 +127,7 @@ Users can dynamically compare health outcomes across regions and time periods.
 
 ---
 Dashboard Preview
-![Summary]([url-to-image](https://github.com/anushkashajith/Global-Health-Environment/blob/Images/summary.png))
+![Summary](https://github.com/anushkashajith/Global-Health-Environment/blob/Images/summary.png)
 ---
 # Key Insights (Example)
 
